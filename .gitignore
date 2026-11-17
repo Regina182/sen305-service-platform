@@ -1,0 +1,16 @@
+# Python / environments
+.venv/
+__pycache__/
+*.py[cod]
+# Secrets
+.env
+.env.*
+!.env.example
+# Local database
+backend/db.sqlite3
+db.sqlite3
+# Editors / tooling
+.vscode/
+.idea/
+node_modules/
+home-response.html
